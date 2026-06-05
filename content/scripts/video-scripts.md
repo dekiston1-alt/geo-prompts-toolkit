@@ -199,3 +199,36 @@ Link is in my bio. I don't recommend things I don't use. Go look."
 
 *Affiliate link for bio: https://medicinalseedkit.com/kit/#aff=dekiston3a6d0*
 *Landing page: https://dekiston1-alt.github.io/Goddess-fuel/*
+
+---
+
+## GENERAL VIDEO PRODUCTION NOTES (All Scripts)
+
+**Captions:** Always add captions — 85% of social video is watched on mute. Use auto-captions then correct them manually.
+
+**Hashtags to use:**
+#MedicinalHerbs #HerbalWellness #GrowYourOwnMedicine #HolisticHealth #HerbalRemedies #GoddessFuel #PlantMedicine #HomeHerbGarden #NaturalHealing #WellnessJourney
+
+**Call to Action Variations (rotate these so they don't feel repetitive):**
+- "Link in my bio"
+- "Go to my bio link — I have it all there"
+- "I linked it in my bio — it takes 10 seconds"
+- "Check the link in my bio for the kit"
+- "It's in my bio — grab it"
+
+**Posting Frequency Target:** 3–5 Reels per week during your 9-day sprint. Then 4–5/week sustained.
+
+**Best Times to Post:**
+- Instagram: 7–9am, 12–1pm, 6–8pm (local time)
+- TikTok: 6–10am, 7–9pm
+
+**Hook Testing:** If a script isn't performing after 48 hours (under 300 views), refilm the first 3 seconds with a different hook. The rest of the video may be fine — the hook is the problem.
+
+**Affiliate Link Reminder:** Always direct people to https://medicinalseedkit.com/kit/#aff=dekiston3a6d0 via your bio link or linktree. Never post raw affiliate links in captions (Instagram may suppress reach).
+
+**Script Filming Order (recommended):**
+1. Script #1 (Day 1 — launch priority)
+2. Script #3 (Day 3 — unboxing, good for trust)
+3. Script #2 (Day 4 — educational)
+4. Script #4 (Day 6 — nostalgia, weekend performer)
+5. Script #5 (Day 9 — final push, objection handling)
